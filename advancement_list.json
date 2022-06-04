@@ -1,0 +1,476 @@
+[
+    {
+        "name": "Stone age",
+        "location": "story/mine_stone",
+        "score": 1
+    },
+    {
+        "name": "Getting an upgrade",
+        "location": "story/upgrade_tools",
+        "score": 1
+    },
+    {
+        "name": "Acquire hardware",
+        "location": "story/smelt_iron",
+        "score": 1
+    },
+    {
+        "name": "Suit up",
+        "location": "story/obtain_armor",
+        "score": 1
+    },
+    {
+        "name": "Hot stuff",
+        "location": "story/lava_bucket",
+        "score": 1
+    },
+    {
+        "name": "Isn't it iron pick",
+        "location": "story/iron_tools",
+        "score": 1
+    },
+    {
+        "name": "Not today, thank you",
+        "location": "story/deflect_arrow",
+        "score": 1
+    },
+    {
+        "name": "Ice bucket challenge",
+        "location": "story/form_obsidian",
+        "score": 1
+    },
+    {
+        "name": "Diamonds !",
+        "location": "story/mine_diamonds",
+        "score": 1
+    },
+    {
+        "name": "Need to go deeper",
+        "location": "story/enter_the_nether",
+        "score": 1
+    },
+    {
+        "name": "Cover me with diamonds",
+        "location": "story/shiny_gear",
+        "score": 1
+    },
+    {
+        "name": "Enchanter",
+        "location": "story/enchant_item",
+        "score": 1
+    },
+    {
+        "name": "Zombie doctor",
+        "location": "story/cure_zombie_villager",
+        "score": 10
+    },
+    {
+        "name": "Eye spy",
+        "location": "story/follow_ender_eye",
+        "score": 2
+    },
+
+    {
+        "name": "Return to sender",
+        "location": "nether/return_to_sender",
+        "score": 2
+    },
+    {
+        "name": "Those were the days",
+        "location": "nether/find_bastion",
+        "score": 1
+    },
+    {
+        "name": "Hidden in the depths",
+        "location": "nether/obtain_ancient_debris",
+        "score": 6
+    },
+    {
+        "name": "Subspace bubble",
+        "location": "nether/fast_travel",
+        "score": 15
+    },
+    {
+        "name": "A Terrible Fortress",
+        "location": "nether/find_fortress",
+        "score": 1
+    },
+    {
+        "name": "Who is cutting onions ?",
+        "location": "nether/obtain_crying_obsidian",
+        "score": 2
+    },
+    {
+        "name": "Oh shiny",
+        "location": "nether/distract_piglin",
+        "score": 2
+    },
+    {
+        "name": "This boat has legs",
+        "location": "nether/ride_strider",
+        "score": 1
+    },
+    {
+        "name": "Uneasy alliance",
+        "location": "nether/uneasy_alliance",
+        "score": 22
+    },
+    {
+        "name": "War pigs",
+        "location": "nether/loot_bastion",
+        "score": 2
+    },
+    {
+        "name": "Country lode, take me home",
+        "location": "nether/use_loadstone",
+        "score": 4
+    },
+    {
+        "name": "Cover me in debris",
+        "location": "nether/netherite_armor",
+        "score": 20
+    },
+    {
+        "name": "Spooky scary skeleton",
+        "location": "nether/get_wither_skull",
+        "score": 20
+    },
+    {
+        "name": "Into fire",
+        "location": "nether/obtain_blaze_rod",
+        "score": 1
+    },
+    {
+        "name": "Not quite \"nine\" lives",
+        "location": "nether/charge_respawn_anchor",
+        "score": 5
+    },
+    {
+        "name": "Feels like home",
+        "location": "nether/ride_strider_in_overworld_lava",
+        "score": 5
+    },
+    {
+        "name": "Hot tourist destinations",
+        "location": "nether/explore_nether",
+        "score": 9
+    },
+    {
+        "name": "Withering heights",
+        "location": "nether/summon_wither",
+        "score": 30
+    },
+    {
+        "name": "Local brewery",
+        "location": "nether/brew_potion",
+        "score": 1
+    },
+    {
+        "name": "Bring home the beacon",
+        "location": "nether/create_beacon",
+        "score": 30
+    },
+    {
+        "name": "A furious cocktail",
+        "location": "nether/all_potions",
+        "score": 100
+    },
+    {
+        "name": "Beaconator",
+        "location": "nether/create_full_beacon",
+        "score": 40
+    },
+    {
+        "name": "How did we get here ?",
+        "location": "nether/all_effects",
+        "score": 150
+    },
+
+    {
+        "name": "Free the end",
+        "location": "end/kill_dragon",
+        "score": 10
+    },
+    {
+        "name": "The end... Again...",
+        "location": "end/respawn_dragon",
+        "score": 14
+    },
+    {
+        "name": "You need a mint",
+        "location": "end/dragon_breath",
+        "score": 8
+    },
+    {
+        "name": "The city at the end of the game",
+        "location": "end/find_end_city",
+        "score": 12
+    },
+    {
+        "name": "Sky's the limit",
+        "location": "end/elytra",
+        "score": 15
+    },
+    {
+        "name": "Great view from up here",
+        "location": "end/levitate",
+        "score": 20
+    },
+    
+    {
+        "name": "Voluntary exile",
+        "location": "adventure/voluntary_exile",
+        "score": 5
+    },
+    {
+        "name": "Is it a bird ?",
+        "location": "adventure/spyglass_at_parot",
+        "score": 6
+    },
+    {
+        "name": "Monster hunter",
+        "location": "adventure/kill_a_mob",
+        "score": 1
+    },
+    {
+        "name": "What a deal !",
+        "location": "adventure/trade",
+        "score": 5
+    },
+    {
+        "name": "Sticky situation",
+        "location": "adventure/honey_block_slide",
+        "score": 3
+    },
+    {
+        "name": "Ol' betsy",
+        "location": "adventure/ol_betsy",
+        "score": 1
+    },
+    {
+        "name": "Surge protector",
+        "location": "adventure/lightning_rod_with_villager_no_fire",
+        "score": 15
+    },
+    {
+        "name": "Caves & cliffs",
+        "location": "adventure/fall_from_world_height",
+        "score": 10
+    },
+    {
+        "name": "Sneak 100",
+        "location": "adventure/avoid_vibration",
+        "score": 5
+    },
+    {
+        "name": "Sweet dreams",
+        "location": "adventure/sleep_in_bed",
+        "score": 1
+    },
+    {
+        "name": "Hero of the village",
+        "location": "adventure/hero_of_the_village",
+        "score": 10
+    },
+    {
+        "name": "Is it a balloon ?",
+        "location": "adventure/spyglass_at_ghast",
+        "score": 6
+    },
+    {
+        "name": "A throwaway joke",
+        "location": "adventure/throw_trident",
+        "score": 8
+    },
+    {
+        "name": "It spreads",
+        "location": "adventure/kill_mob_near_skulk_catalyst",
+        "score": 10
+    },
+    {
+        "name": "Take aim",
+        "location": "adventure/shoot_arrow",
+        "score": 1
+    },
+    {
+        "name": "Monsters hunted",
+        "location": "adventure/kill_all_mobs",
+        "score": 25
+    },
+    {
+        "name": "Postmortal",
+        "location": "adventure/totem_of_undying",
+        "score": 20
+    },
+    {
+        "name": "Hired help",
+        "location": "adventure/summon_iron_golem",
+        "score": 4
+    },
+    {
+        "name": "Star trader",
+        "location": "adventure/trade_at_world_height",
+        "score": 10
+    },
+    {
+        "name": "Two birds, one arrow",
+        "location": "adventure/two_birds_one_arrow",
+        "score": 15
+    },
+    {
+        "name": "Who's the pillager now",
+        "location": "adventure/whos_the_pillager_now",
+        "score": 3
+    },
+    {
+        "name": "Arbalistic",
+        "location": "adventure/arbalistic",
+        "score": 4
+    },
+    {
+        "name": "Adventuring time",
+        "location": "adventure/adventuring_time",
+        "score": 32
+    },
+    {
+        "name": "Sound of music",
+        "location": "adventure/play_jukebox_in_meadows",
+        "score": 7
+    },
+    {
+        "name": "Light as a rabbit",
+        "location": "adventure/walk_on_powder_snow_with_leather_boots",
+        "score": 6
+    },
+    {
+        "name": "Is it a plane ?",
+        "location": "adventure/spyglass_at_dragon",
+        "score": 10
+    },
+    {
+        "name": "Very very frightening",
+        "location": "adventure/very_very_frightening",
+        "score": 12
+    },
+    {
+        "name": "Sniper duel",
+        "location": "adventure/sniper_duel",
+        "score": 8
+    },
+    {
+        "name": "Bullseye",
+        "location": "adventure/bullseye",
+        "score": 10
+    },
+
+    {
+        "name": "Bee our guest",
+        "location": "husbandry/safely_harvest_honey",
+        "score": 1
+    },
+    {
+        "name": "The parrots and the bats",
+        "location": "husbandry/breed_an_animal",
+        "score": 1
+    },
+    {
+        "name": "You've got a friend in me",
+        "location": "husbandry/allay_deliver_item_to_player",
+        "score": 8
+    },
+    {
+        "name": "Whatever floats your goat !",
+        "location": "husbandry/ride_a_boat_with_a_goat",
+        "score": 2
+    },
+    {
+        "name": "Best friends forever",
+        "location": "husbandry/tame_an_animal",
+        "score": 1
+    },
+    {
+        "name": "Glow and behold !",
+        "location": "husbandry/make_a_sign_glow",
+        "score": 3
+    },
+    {
+        "name": "Fishy business",
+        "location": "husbandry/fishy_business",
+        "score": 1
+    },
+    {
+        "name": "Total beelocation",
+        "location": "husbandry/silk_touch_nest",
+        "score": 4
+    },
+    {
+        "name": "Bukkit bukkit",
+        "location": "husbandry/tadpole_in_a_bucket",
+        "score": 3
+    },
+    {
+        "name": "A seedy place",
+        "location": "husbandry/plant_seed",
+        "score": 1
+    },
+    {
+        "name": "Wax on",
+        "location": "husbandry/wax_on",
+        "score": 2
+    },
+    {
+        "name": "Two by two",
+        "location": "husbandry/bred_all_animals",
+        "score": 8
+    },
+    {
+        "name": "Birthday song",
+        "location": "husbandry/allay_deliver_cake_to_note_block",
+        "score": 9
+    },
+    {
+        "name": "A complete catalogue",
+        "location": "husbandry/complete_catalogue",
+        "score": 7
+    },
+    {
+        "name": "Tactical fishing",
+        "location": "husbandry/tactical_fishing",
+        "score": 1
+    },
+    {
+        "name": "When the squad hops into town",
+        "location": "husbandry/leash_all_frog_variants",
+        "score": 12
+    },
+    {
+        "name": "A balanced diet",
+        "location": "husbandry/balanced_diet",
+        "score": 17
+    },
+    {
+        "name": "Serious dedication",
+        "location": "husbandry/obtain_netherite_hoe",
+        "score": 8
+    },
+    {
+        "name": "Wax off",
+        "location": "husbandry/wax_off",
+        "score": 2
+    },
+    {
+        "name": "The cutest predator",
+        "location": "husbandry/axolotl_in_a_bucket",
+        "score": 3
+    },
+    {
+        "name": "With our powers combined !",
+        "location": "husbandry/froglights",
+        "score": 12
+    },
+    {
+        "name": "The healing power of friendship !",
+        "location": "husbandry/kill_axolotl_target",
+        "score": 4
+    }
+]
