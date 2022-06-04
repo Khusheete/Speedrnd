@@ -27,11 +27,11 @@ scoreboard players operation $sec srnd /= $eax srnd
 
 scoreboard players set $eax srnd 60
 # $min = $sec / 60
-scoreboard players operation $min srnd = $sec srnd.global
+scoreboard players operation $min srnd = $sec srnd
 scoreboard players operation $min srnd /= $eax srnd
 
 # $h = $min / 60
-scoreboard players operation $h srnd = $min srnd.global
+scoreboard players operation $h srnd = $min srnd
 scoreboard players operation $h srnd /= $eax srnd
 
 # $sec %= 60
