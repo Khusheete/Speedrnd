@@ -99,10 +99,10 @@ execute if score @s srnd matches 1 run tellraw @s [{"text": "%adv_name%adv%%", "
         "path": output + funcpath + "/gen/check_adv.mcfunction",
         "gen": Generator([
             header,
-            r'scoreboard players set \$ok srnd 1',
+            r'scoreboard players set $ok srnd 1',
             TemplateItem(
                 r'''execute as @a if entity @s[advancements={%adv_loc%adv%%=true}] run advancement grant @a[advancements={%adv_loc%adv%%=false}] only %adv_loc%adv%%
-execute as @a if entity @s[advancements={%adv_loc%adv%%=false}] run scoreboard players set \$ok srnd 0
+execute as @a if entity @s[advancements={%adv_loc%adv%%=false}] run scoreboard players set $ok srnd 0
 ''',
                 [Variable("adv", range(len(selection)))],
                 {
