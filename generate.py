@@ -25,11 +25,12 @@ for arg in sys.argv:
     match = re.match("(?:--target|-t)=(\\d{1,3})", arg)
     if match:
         target = int(match.group(1))
-    match = re.match("(?:--output|-o)=((?:\\w|/|\\s)+)", arg)
+    match = re.match("(?:--output|-o)=((?:\\w|/|\\s|\\.)+)", arg)
     if match:
         output = match.group(1)
 
 random.seed(seed)
+print(output)
 
 
 #%% get advancements
@@ -59,7 +60,7 @@ selection.sort(key = lambda adv: adv["score"])
 #%% copy files
 try:
     shutil.copytree("template/", output)
-except e:
+except FileExistsError:
     pass
 
 
