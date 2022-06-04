@@ -3,12 +3,14 @@
 
 # if it did not start, put everyone in adventure mode
 execute as @a if score $started srnd.global matches 0 run gamemode adventure @s
+execute as @a if score $started srnd.global matches 0 run scoreboard players enable @a srnd.start
 
 # if a player starts the run execcute the start function
 execute as @a if score @s srnd.start matches 1.. unless score $started srnd.global matches 1..2 run function speedrnd:start
 
 
 # if a player requests a display of the advancements
+execute as @a if score @s srnd.start matches 1.. run scoreboard players enable @a srnd.see_goals
 execute as @a if score @s srnd.see_goals matches 1.. run function speedrnd:gen/display
 execute as @a if score @s srnd.see_goals matches 1.. run scoreboard players set @s srnd.see_goals 0
 
